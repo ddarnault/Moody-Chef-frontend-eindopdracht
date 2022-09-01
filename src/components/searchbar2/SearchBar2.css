@@ -1,0 +1,22 @@
+.searchbar-outer-wrap {
+    margin-top: 80px;
+    align-items: center;
+}
+
+.outer-searchbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    background: #FFCF56;
+}
+
+.inner-searchbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 1080px;
+    margin: 30px;
+}
+

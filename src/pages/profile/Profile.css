@@ -1,0 +1,74 @@
+.profile-outer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px;
+}
+.profile-info-outer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 324px;
+    height: 468px;
+    background: white;
+    box-shadow: 0 2px 4px 0 rgba(77, 77, 77, 0.15);
+}
+
+.profile-inner-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-basis: 600px;
+    width: 100%;
+    flex-shrink: 1;
+    flex-grow: 0;}
+
+
+
+.profile-info-inner {
+    display: flex;
+    flex-direction: column;
+    margin: 35px;
+}
+
+.profile-pic{
+    width: 160px;
+    align-self: center;
+    padding-bottom: 42px;
+}
+.profile-info-username {
+    display: flex;
+    flex-direction: row;
+    gap: 18px;
+}
+
+.profile-info-email {
+    display: flex;
+    flex-direction: row;
+    gap: 18px;
+    padding-bottom: 80px;
+}
+
+.profile-icon {
+    width: 15px;
+    fill: #FFCF56;
+}
+
+.logout-button{
+    font-family: "Montserrat Medium";
+    font-size: 16px;
+    font-weight: bold;
+    width: 123px;
+    height: 37px;
+    align-self: center;
+    border: 1px solid #FFCF56;
+    background-color: #FFCF56;
+    color: white;
+    transition: 0.3s;
+}
+
+.logout-button:hover {
+    background-color: white;
+    border: 1px solid #FFCF56;
+    color: #FFCF56;
+}

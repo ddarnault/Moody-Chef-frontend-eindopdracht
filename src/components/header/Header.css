@@ -1,0 +1,61 @@
+.logo-container {
+    width: 150px;
+}
+
+.all-recipes {
+    font-family: "Montserrat Medium";
+    font-size: 14px;
+    text-decoration: none;
+    background-color: #FFCF56;
+    border: 1px solid #FFCF56;
+    border-radius: 20px;
+    color: white;
+    width: 100px;
+    height: 35px;
+    padding: 6px;
+    margin-top: 21px;
+    margin-left: 1400px;
+    align-items: center;
+    transition: 0.4s;
+}
+
+.all-recipes:hover{
+    background-color: white;
+    color: #FFCF56;
+}
+
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 6px 5px 6px 30px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-shadow: 0 2px 4px 0 rgba(77, 77, 77, 0.10);
+}
+
+.nav-container {
+    padding-right: 60px;
+    display: flex;
+    gap: 30px;
+    text-decoration: none;
+}
+
+.nav-button {
+    font-family: Ubuntu;
+    font-size: medium;
+    color: #575A5E;
+    background-color: white;
+    border-style: none;
+    transition: 0.3s;
+}
+
+.nav-button:hover {
+    color: #FFCF56;
+}
+
+
+

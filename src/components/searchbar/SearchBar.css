@@ -1,0 +1,40 @@
+.search-form {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    padding-top: 21px;
+    width: 400px;
+}
+
+
+.search-bar {
+    font-family: "Montserrat Medium";
+    width: 100%;
+    border: 1px solid lightgray;
+    height: 37px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    outline: none;
+    transition: 0.3s;
+    padding-left: 30px;
+}
+
+.searchbar-wrap {
+    width: 100%;
+}
+
+.outer-introduction {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    background: #FFCF56;
+}
+
+.inner-introduction {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 1080px;
+    margin: 30px;
+}

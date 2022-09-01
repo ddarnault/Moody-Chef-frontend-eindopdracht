@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24b1180a-783b-49c8-b66a-9db415689ce4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Moody-chef-logo_Icon-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Moody-chef-logo_Icon-yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Login quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Logo-yellow-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Moody-chef-logo_Icon-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Moody-chef-logo_Icon-yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Moody-chef-logo_Logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Moody-chef-logo_Logo-yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/email.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/lock-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/noodles-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/pexels-ella-olsson-1640770.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/profilepic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/user-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/auth context/AuthContextProvider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/searchbar/SearchBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/searchbar/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/searchbar2/SearchBar2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/searchbar2/SearchBar2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slider/Slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slider/Slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/all recipes/AllRecipes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/all recipes/AllRecipes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/Home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/profile/Profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/profile/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/signup/SignUp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/signup/SignUp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/eindopdracht-bootcamp-fullstack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/eindopdracht-bootcamp-fullstack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/components/auth context/AuthContextProvider.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="28KNzH1ZdA8w1p7gPBV3zrYeo2E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/David/Documents/Novi/Projects/1 Fontend/frontend-react-login-demo 2&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\David\Documents\Novi\Projects\1 Fontend\eindopdracht-bootcamp-fullstack\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\David\Documents\Novi\Projects\1 Fontend\eindopdracht-bootcamp-fullstack\src\assets" />
+      <recent name="C:\Users\David\Documents\Novi\Projects\1 Fontend\eindopdracht-bootcamp-fullstack\src\components" />
+      <recent name="C:\Users\David\Documents\Novi\Projects\1 Fontend\eindopdracht-bootcamp-fullstack\src\pages" />
+      <recent name="C:\Users\David\Documents\Novi\Projects\eindopdracht-bootcamp-fullstack\src\assets" />
+      <recent name="C:\Users\David\Documents\Novi\Projects\eindopdracht-bootcamp-fullstack\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24b1180a-783b-49c8-b66a-9db415689ce4" name="Changes" comment="" />
+      <created>1650961577947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650961577947</updated>
+      <workItem from="1650961579198" duration="45000" />
+      <workItem from="1650961658991" duration="24450000" />
+      <workItem from="1651047527977" duration="12627000" />
+      <workItem from="1651143302995" duration="6675000" />
+      <workItem from="1651220703593" duration="13149000" />
+      <workItem from="1651240746241" duration="141000" />
+      <workItem from="1651257915135" duration="611000" />
+      <workItem from="1651314489487" duration="7186000" />
+      <workItem from="1651322000460" duration="3076000" />
+      <workItem from="1651325493939" duration="3099000" />
+      <workItem from="1651399773084" duration="6138000" />
+      <workItem from="1655537477850" duration="58000" />
+      <workItem from="1656489375832" duration="157000" />
+      <workItem from="1656489545668" duration="618000" />
+      <workItem from="1656491257594" duration="14397000" />
+      <workItem from="1657448662118" duration="597000" />
+      <workItem from="1657453793622" duration="10074000" />
+      <workItem from="1657629340545" duration="46000" />
+      <workItem from="1657703461351" duration="7215000" />
+      <workItem from="1657716692348" duration="5200000" />
+      <workItem from="1658056291430" duration="3106000" />
+      <workItem from="1658064635973" duration="10590000" />
+      <workItem from="1658306229135" duration="15465000" />
+      <workItem from="1658559377265" duration="586000" />
+      <workItem from="1658560202788" duration="29572000" />
+      <workItem from="1658652949105" duration="17504000" />
+      <workItem from="1658677167965" duration="6000" />
+      <workItem from="1658677220017" duration="43000" />
+      <workItem from="1658677275805" duration="5328000" />
+      <workItem from="1658758021628" duration="6981000" />
+      <workItem from="1658765629773" duration="522000" />
+      <workItem from="1658766196249" duration="3788000" />
+      <workItem from="1658770374062" duration="69000" />
+      <workItem from="1658776161111" duration="3710000" />
+      <workItem from="1658780106125" duration="2088000" />
+      <workItem from="1658820549927" duration="9259000" />
+      <workItem from="1658837445010" duration="11662000" />
+      <workItem from="1658931024368" duration="2570000" />
+      <workItem from="1658939761127" duration="5036000" />
+      <workItem from="1659011323266" duration="18941000" />
+      <workItem from="1659211730970" duration="1337000" />
+      <workItem from="1659255407485" duration="15065000" />
+      <workItem from="1659272281603" duration="3299000" />
+      <workItem from="1659279368613" duration="7991000" />
+      <workItem from="1660051290211" duration="301000" />
+      <workItem from="1660051640583" duration="4947000" />
+      <workItem from="1660651861548" duration="10101000" />
+      <workItem from="1660721854806" duration="14080000" />
+      <workItem from="1661246165599" duration="16019000" />
+      <workItem from="1661693284085" duration="2155000" />
+      <workItem from="1661695616447" duration="14157000" />
+      <workItem from="1661861263200" duration="22638000" />
+      <workItem from="1661931126428" duration="19338000" />
+      <workItem from="1661971629318" duration="698000" />
+      <workItem from="1662049873527" duration="3682000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
