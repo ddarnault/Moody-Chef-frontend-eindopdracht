@@ -2,7 +2,6 @@ import React, {useEffect, useState} from 'react';
 import axios from "axios";
 import {Splide, SplideSlide} from '@splidejs/react-splide';
 import '@splidejs/react-splide/css';
-import {useHistory} from "react-router-dom";
 import './Home.css';
 import backgroundImage from "../../assets/pexels-ella-olsson-1640770.jpg";
 import SearchBar from "../../components/searchbar/SearchBar";
@@ -11,7 +10,6 @@ import Slider from "../../components/slider/Slider";
 
 function Home() {
 
-    const history = useHistory();
 
     const apiKey = 'e3070ee165f2452bbe899506f2f45319';
 
@@ -148,10 +146,7 @@ function Home() {
 }
 
 export default Home;
-/*
-d14ff5b0266343ee9d4db7f767d10ea4 <--- eigen api
-e3070ee165f2452bbe899506f2f45319
-*/
+
 
 
 
